@@ -27,7 +27,7 @@ Các công nghệ chính mà tôi sử dụng bao gồm:
 
 ### 👨‍🎓 Hành trình học tập
 
-Tôi hiện đang theo học tại trường **Iuh**, nơi tôi không chỉ học tập mà còn tham gia vào nhiều dự án thú vị. Tôi tin rằng việc học không chỉ giới hạn trong sách vở, mà còn là việc thực hành và trao đổi kiến thức với cộng đồng lập trình viên.
+Tôi hiện đang theo học tại trường **Huflit**, nơi tôi không chỉ học tập mà còn tham gia vào nhiều dự án thú vị. Tôi tin rằng việc học không chỉ giới hạn trong sách vở, mà còn là việc thực hành và trao đổi kiến thức với cộng đồng lập trình viên.
 
 ---
 
