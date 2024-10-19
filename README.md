@@ -48,15 +48,20 @@ Tôi hiện đang theo học tại trường **Iuh**, nơi tôi không chỉ h�
 
 Dưới đây là một số dự án mà tôi tự hào:
 
-1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, ứng dụng này giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả. **Tính năng chính**: Thêm, chỉnh sửa, xóa công việc; lưu trữ dữ liệu trên MongoDB.
+1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, ứng dụng này giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả. 
+   - **Tính năng chính**: Thêm, chỉnh sửa, xóa công việc; lưu trữ dữ liệu trên MongoDB.
+   - ![Task Manager Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)
 
-2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo cho một sản phẩm mới, với các hiệu ứng CSS và JavaScript để tăng cường tương tác người dùng. **Tính năng chính**: Tối ưu hóa SEO và tốc độ tải trang.
+2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo cho một sản phẩm mới, với các hiệu ứng CSS và JavaScript để tăng cường tương tác người dùng. 
+   - **Tính năng chính**: Tối ưu hóa SEO và tốc độ tải trang.
 
-3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, ứng dụng này giúp người dùng theo dõi thời tiết hiện tại của thành phố mà họ quan tâm. **Tính năng chính**: Hiển thị dự báo thời tiết theo giờ và hàng ngày.
+3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, ứng dụng này giúp người dùng theo dõi thời tiết hiện tại của thành phố mà họ quan tâm. 
+   - **Tính năng chính**: Hiển thị dự báo thời tiết theo giờ và hàng ngày.
 
 4. **[Website Portfolio Cá nhân](https://github.com/manhcr7/portfolio-website)**: Một trang portfolio cá nhân giúp tôi trình bày các kỹ năng và dự án đã thực hiện, sử dụng React.js và Sass để tối ưu giao diện và trải nghiệm người dùng.
 
-5. **[Ứng dụng Thương mại Điện tử](https://github.com/manhcr7/ecommerce-app)**: Ứng dụng cho phép người dùng duyệt sản phẩm và thực hiện thanh toán trực tuyến. **Tính năng chính**: Giỏ hàng, thanh toán an toàn, và quản lý người dùng.
+5. **[Ứng dụng Thương mại Điện tử](https://github.com/manhcr7/ecommerce-app)**: Ứng dụng cho phép người dùng duyệt sản phẩm và thực hiện thanh toán trực tuyến. 
+   - **Tính năng chính**: Giỏ hàng, thanh toán an toàn, và quản lý người dùng.
 
 ---
 
@@ -154,10 +159,6 @@ Tôi luôn tham gia các diễn đàn và cộng đồng lập trình như:
 - **[Stack Overflow](https://stackoverflow.com/)**
 - **[Reddit - Programming](https://www.reddit.com/r/programming/)**
 - **[Dev.to](https://dev.to/)**
-
----
-
-
 
 ---
 
