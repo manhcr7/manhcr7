@@ -76,7 +76,7 @@ Dưới đây là một số dự án mà tôi tự hào:
 
 ### 📈 Thống kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manhcr7&show_icons=true&theme=radical)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusdias20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
 ---
 
@@ -178,4 +178,4 @@ Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ v�
 
 Hy vọng bạn tìm thấy thông tin hữu ích và thú vị. Hãy theo dõi tôi để cập nhật những dự án và bài viết mới nhất!
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusdias20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+
