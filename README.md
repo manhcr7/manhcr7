@@ -16,18 +16,12 @@
 
 ## 🌟 Giới thiệu
 
-Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc trên các dự án từ nhỏ đến lớn. Từ những ngày đầu học lập trình, tôi đã đam mê tạo ra các sản phẩm kỹ thuật số giúp cải thiện cuộc sống của mọi người.
-
-Tôi có khả năng thiết kế và phát triển giao diện người dùng tương tác, tối ưu hóa trải nghiệm người dùng và luôn cập nhật những xu hướng công nghệ mới nhất. Tôi đam mê tạo ra những website với **thiết kế đẹp mắt, tối ưu hóa SEO**, và đặc biệt quan tâm đến **hiệu suất**.
-
-Các công nghệ chính mà tôi sử dụng bao gồm:
-- **HTML5**, **CSS3**, **JavaScript** cho phần giao diện
-- **React.js** và **Redux** cho ứng dụng web một trang (SPA)
-- **Node.js** và **Express** để xử lý backend đơn giản
+- Tôi là một lập trình viên web chuyên về phát triển **frontend**, với hơn 2 năm kinh nghiệm làm việc trên các dự án từ nhỏ đến lớn.
+- Đam mê tạo ra các sản phẩm kỹ thuật số giúp cải thiện cuộc sống và tối ưu hóa trải nghiệm người dùng.
+- Kỹ năng chính: **thiết kế giao diện**, **tối ưu hóa SEO**, và **hiệu suất website**.
 
 ### 👨‍🎓 Hành trình học tập
-
-Tôi hiện đang theo học tại trường **Huflit**, nơi tôi không chỉ học tập mà còn tham gia vào nhiều dự án thú vị. Tôi tin rằng việc học không chỉ giới hạn trong sách vở, mà còn là việc thực hành và trao đổi kiến thức với cộng đồng lập trình viên.
+- Hiện đang theo học tại trường **Huflit** và tham gia nhiều dự án thú vị để nâng cao kỹ năng thực tiễn.
 
 ---
 
@@ -46,85 +40,35 @@ Tôi hiện đang theo học tại trường **Huflit**, nơi tôi không chỉ 
 
 ### 🌟 Dự án nổi bật
 
-Dưới đây là một số dự án mà tôi tự hào:
-
-1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, ứng dụng này giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả. 
-   - **Tính năng chính**: Thêm, chỉnh sửa, xóa công việc; lưu trữ dữ liệu trên MongoDB.
+1. **[Ứng dụng Quản lý Công việc](https://github.com/manhcr7/task-manager)**: Xây dựng bằng React.js và Node.js, giúp người dùng quản lý công việc hàng ngày với giao diện đơn giản và hiệu quả.
    - ![Task Manager Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)
 
-2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo cho một sản phẩm mới, với các hiệu ứng CSS và JavaScript để tăng cường tương tác người dùng. 
-   - **Tính năng chính**: Tối ưu hóa SEO và tốc độ tải trang.
+2. **[Trang Landing Page Sản phẩm](https://github.com/manhcr7/landing-page)**: Thiết kế một trang landing page sáng tạo với hiệu ứng CSS và JavaScript.
+   - **Tối ưu hóa SEO và tốc độ tải trang.**
 
-3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, ứng dụng này giúp người dùng theo dõi thời tiết hiện tại của thành phố mà họ quan tâm. 
-   - **Tính năng chính**: Hiển thị dự báo thời tiết theo giờ và hàng ngày.
+3. **[Ứng dụng Thời tiết](https://github.com/manhcr7/weather-app)**: Sử dụng API thời tiết, giúp theo dõi thời tiết hiện tại của thành phố người dùng.
+   - Hiển thị dự báo theo giờ và hàng ngày.
 
-4. **[Website Portfolio Cá nhân](https://github.com/manhcr7/portfolio-website)**: Một trang portfolio cá nhân giúp tôi trình bày các kỹ năng và dự án đã thực hiện, sử dụng React.js và Sass để tối ưu giao diện và trải nghiệm người dùng.
+4. **[Website Portfolio Cá nhân](https://github.com/manhcr7/portfolio-website)**: Giới thiệu kỹ năng và dự án cá nhân.
+   - Sử dụng **React.js** và **Sass**.
 
-5. **[Ứng dụng Thương mại Điện tử](https://github.com/manhcr7/ecommerce-app)**: Ứng dụng cho phép người dùng duyệt sản phẩm và thực hiện thanh toán trực tuyến. 
-   - **Tính năng chính**: Giỏ hàng, thanh toán an toàn, và quản lý người dùng.
+5. **[Ứng dụng Thương mại Điện tử](https://github.com/manhcr7/ecommerce-app)**: Ứng dụng thương mại điện tử với giỏ hàng và thanh toán trực tuyến.
 
 ---
 
 ### 🎨 Thiết kế & Công nghệ
 
-- **Responsive Design**: Tất cả các dự án của tôi đều đảm bảo khả năng tương thích với mọi kích thước màn hình, từ điện thoại đến máy tính bàn.
-- **Sass & CSS Grid/Flexbox**: Giúp xây dựng giao diện linh hoạt và nhanh chóng.
-- **SEO Optimization**: Tôi luôn chú trọng việc tối ưu hóa trang web để đạt được kết quả tốt nhất trên các công cụ tìm kiếm.
-- **Dark Mode & Light Mode**: Tính năng chuyển đổi giữa các chế độ sáng và tối giúp tăng trải nghiệm người dùng.
+- **Responsive Design**: Tất cả các dự án đều tương thích với mọi kích thước màn hình.
+- **Sass & CSS Grid/Flexbox**: Giúp xây dựng giao diện linh hoạt.
+- **SEO Optimization**: Tối ưu hóa trang web trên công cụ tìm kiếm.
+- **Dark Mode & Light Mode**: Tăng trải nghiệm người dùng với chế độ sáng/tối.
 
 ---
 
 ### 📈 Thống kê GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manhcr7&show_icons=true&theme=radical)
-
----
-
-### 📚 Tài nguyên học tập
-
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [Udemy](https://www.udemy.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-
----
-
-### 🎉 Dự án tương lai
-
-- **Ứng dụng Chatbot**: Tích hợp AI để tạo ra một chatbot hỗ trợ người dùng.
-- **Hệ thống Quản lý Thông tin**: Một ứng dụng cho phép người dùng quản lý thông tin cá nhân một cách hiệu quả.
-- **Nền tảng Học trực tuyến**: Tạo một nền tảng cho việc học và trao đổi kiến thức giữa sinh viên và giảng viên.
-
----
-
-### 💬 Trích dẫn yêu thích
-
-> "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
-
----
-
-### 💻 Công cụ và Công nghệ sử dụng
-
-- **IDE**: Visual Studio Code, WebStorm
-- **Version Control**: Git, GitHub
-- **Design Tools**: Figma, Adobe XD
-- **Testing**: Jest, React Testing Library
-- **Deployment**: Vercel, Heroku
-
----
-
-### 📝 Blog & Viết lách
-
-Tôi thường xuyên viết blog về các chủ đề công nghệ và lập trình. Bạn có thể theo dõi bài viết của tôi tại [Medium](https://medium.com/) hoặc trên blog cá nhân của tôi (nếu có).
-
----
-
-### 📚 Sở thích cá nhân
-
-Ngoài công việc lập trình, tôi còn có sở thích:
-- [<img src="https://img.icons8.com/fluency/48/000000/camera.png" width="25"/>](https://www.instagram.com/manh_chup_anh/) **Nhiếp ảnh**: Tôi thích chụp lại những khoảnh khắc đẹp trong cuộc sống và chia sẻ chúng trên Instagram.
-- [<img src="https://img.icons8.com/fluency/48/000000/music.png" width="25"/>](https://open.spotify.com/) **Âm nhạc**: Nghe nhạc là nguồn cảm hứng không thể thiếu, đặc biệt là các thể loại nhạc điện tử và indie.
-- [<img src="https://img.icons8.com/fluency/48/000000/worldwide-location.png" width="25"/>](https://www.lonelyplanet.com/) **Du lịch**: Khám phá những vùng đất mới và học hỏi từ những nền văn hóa khác nhau là niềm đam mê của tôi.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhcr7&layout=compact&theme=radical)
 
 ---
 
@@ -153,17 +97,7 @@ Ngoài công việc lập trình, tôi còn có sở thích:
 
 ---
 
-### 🚀 Học hỏi từ cộng đồng
-
-Tôi luôn tham gia các diễn đàn và cộng đồng lập trình như:
-- **[Stack Overflow](https://stackoverflow.com/)**
-- **[Reddit - Programming](https://www.reddit.com/r/programming/)**
-- **[Dev.to](https://dev.to/)**
-
----
-
 ### 💡 Tầm nhìn tương lai
 
-Tôi hy vọng sẽ phát triển sự nghiệp trong lĩnh vực công nghệ thông tin và góp phần vào việc phát triển các sản phẩm và dịch vụ công nghệ có ý nghĩa cho xã hội.
-
----
+- Phát triển **ứng dụng Chatbot** tích hợp AI hỗ trợ người dùng.
+- Xây dựng nền tảng **học trực tuyến** để trao đổi kiến thức giữa sinh viên và giảng viên.
