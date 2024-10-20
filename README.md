@@ -177,3 +177,5 @@ Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ v�
 ### 📝 Cảm ơn bạn đã ghé thăm trang cá nhân của tôi!
 
 Hy vọng bạn tìm thấy thông tin hữu ích và thú vị. Hãy theo dõi tôi để cập nhật những dự án và bài viết mới nhất!
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusdias20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
