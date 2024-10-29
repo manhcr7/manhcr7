@@ -91,7 +91,6 @@
 
 ---
 
-
 ### 🎧 Nghe nhạc cùng tôi
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
@@ -102,3 +101,4 @@
 
 - Phát triển **ứng dụng Chatbot** tích hợp AI hỗ trợ người dùng.
 - Xây dựng nền tảng **học trực tuyến** để trao đổi kiến thức giữa sinh viên và giảng viên.
+
